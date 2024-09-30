@@ -13,3 +13,7 @@ updates:
     directory: "/ruby"
     schedule:
       interval: "weekly"
+  - package-ecosystem: bundler
+    directory: "/testproject"
+    schedule:
+      interval: "weekly"
